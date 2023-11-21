@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: ftantely/testrepo:latest
+          tags: ftantely/testrepo:1
